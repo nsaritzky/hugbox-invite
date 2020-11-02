@@ -22,4 +22,4 @@ body {padding-left: 5.25%;}
    file:static/florida.jpg
 ** Probably not even knowing the result!
   So don't miss this once-in-a-lifetime (god I hope) opportunity! Feel free to drop in and out as your are willing and emotionally able.
-* Join here!
+** [[https://meet.google.com/ryh-rxtf-cnc][Join here!]]

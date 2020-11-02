@@ -22,5 +22,5 @@ body {padding-left: 5.25%;}
    - This picture of Tim Russert
    file:static/florida.jpg
 
-   So don't miss this once-in-a-lifetime (god I hope) opportunity! Feel free to drop in and out as your are willing and emotionally able.
+   So don't miss this once-in-a-lifetime (god I hope) opportunity! Feel free to drop in and out as you are willing and emotionally able.
 ** [[https://meet.google.com/ryh-rxtf-cnc][Join here!]]

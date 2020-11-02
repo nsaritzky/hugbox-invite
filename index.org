@@ -21,5 +21,6 @@ body {padding-left: 5.25%;}
    - Sophie, a very fluffy cat who has her paws on the pulse of the nation
    - This picture of Tim Russert
    file:static/florida.jpg
+
    So don't miss this once-in-a-lifetime (god I hope) opportunity! Feel free to drop in and out as your are willing and emotionally able.
 ** [[https://meet.google.com/ryh-rxtf-cnc][Join here!]]
